@@ -1,4 +1,4 @@
-# Fichiers ameublement des Rendez-vous 4C 
+# Fichiers du mobilier des Rendez-vous 4C 
 
 Les "meubles-légo" des #rdv4c modulables pour s'adapter aux besoins divers des publics 
 Des meubles personnalisés, imaginés par l'équipe des Rendez-vous 4C et dessinés avec l'aide du service technique.
